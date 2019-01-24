@@ -1,0 +1,32 @@
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+
+.footer {
+  background-color: #f5f5f5;
+}
+
+h1.hire {
+  margin-bottom: 1em;
+}
+
+table {
+  margin-bottom: 2em;
+}
+
+td:first-child {
+  width: 8em;
+}
+
+td.strike {
+}
+
+tr.booked {
+  color: #aaa;
+}
